@@ -7,9 +7,10 @@ function About() {
  <h1 className='text-green-800 font-bold text-6x1'> Elevating Businesses with Creative Digital Solutions.</h1>
  <p className='text-slate-05 text-2x1'>Digital agency crafting tailored solutions. Elevate credibility, expand reach, and boost sales with our creative technology expertise.</p>
  <div className='flex justify-center item-center gap-7'>
- <button>Read More</button>
+ <button className='bg-green-800 text-white px-4 py-3 rounded-md text-[18px] hover:bg-black hover:text-white cursor-pointer'>Read More</button>
  </div>
  </div>
+ 
  </section>
   )
 }
