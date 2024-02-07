@@ -9,9 +9,9 @@ function Hero() {
    <div className='flex justify-center items-center gap-7'>
    <button className='bg-green-800 text-white px-4 lg:px-8 py-3 rounded-md text-[18px] hover:bg-black hover:text-white cursor-pointer'>View More</button>
    <button className='border-2 border-green-800 text-green-800  px-4 lg:px-8 py-3 rounded-md text-[18px] hover:border-black hover:text-black cursor-pointer'>Watch Video</button>
-   
-   
    </div>
+   </div>
+   <div className='flex justify-center items-center '>
    </div>
    </section>
   )
